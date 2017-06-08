@@ -1,6 +1,6 @@
 <template>
     <div style="z-index:1000">
-音乐
+<iframe src="http://music.163.com/#/m/playlist?id=102763603&userid=89119883"  frameborder="0" scrolling="no"></iframe>
     </div>
 </template>
 <script>
@@ -9,5 +9,8 @@
     }
 </script>
 <style>
-
+iframe{
+    width: 100%;
+    height: 580px;
+}
 </style>

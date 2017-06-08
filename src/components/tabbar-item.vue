@@ -37,7 +37,7 @@
     }
     &.is-active{
         .m-tabbar-item-text{
-            color: #42bd56;
+            color:#008787;
         }
     }
 }
